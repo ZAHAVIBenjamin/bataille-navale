@@ -1,0 +1,12 @@
+# Ignorer les exécutables
+*.exe
+*.out
+*.o
+
+# Ignorer les fichiers temporaires
+*.log
+*.tmp
+
+# Ignorer fichiers système Windows / Mac
+Thumbs.db
+.DS_Store
